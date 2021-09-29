@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    </head>
+<body>
+  <section><nav>
+      <ul>
+        <div class="topnav">
+            <div class="btn-group">
+                <button><a href="index.html">О ДОНЕЦКЕ</a></button>
+                <button><a href="история.html">ИСТОРИЯ ГОРОДА</a></button>
+                <button><a href="инфраструктура.html">ИНФРАСТРУКТУРА</a></button>
+                <button><a href="культура.html">КУЛЬТУРА</a></button>
+                <button><a href="обратная связь.html">ОБРАТНАЯ СВЯЗЬ</a></button>
+              </div>
+      </ul>
+  </nav>
+  <h1>ОБРАТНАЯ СВЯЗЬ</h1> <html lang="ru">
+        <form name="form" action="mail.php" method="post" id="form_message">
+            <h2>Форма обратной связи.</h2>
+            <p> <div class="titles">Ваше имя*</div> <input class="input" name="name" type="text"/> </p>
+             
+            <p> <div class="titles">Электронная почта*</div> <input class="input" name="email" type="text"/> </p>
+             
+            <p> <div class="titles">Тема сообщения</div> <input class="input" name="subjects" type="text"/> </p>
+             
+            <p> <div class="titles">Текст сообщения:</div><textarea name="message" cols="22" rows="5" /></textarea></p>
+            <p><input id="submit" value="Отправить" type="submit" /></p>
+        </form>
+   
+        <script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"></script>
+
+        <!-- VK Widget -->
+        <div id="vk_groups"></div>
+        <script type="text/javascript">
+        VK.Widgets.Group("vk_groups", {mode: 3}, 20003922);
+        </script>
+</body>
+</html>

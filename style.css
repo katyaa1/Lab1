@@ -1,0 +1,125 @@
+
+img
+{
+ height: 150px;
+}
+td{
+    border:1px blue solid;
+}
+body{
+    background-image:url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ8IDQ0NFREWFhURExMYHSggGBolGxUVITEhJSk3Li4uFx8zODMsNygtLisBCgoKDQ0NFQ0NFSsZFRkrKzc3LSstLTc3NystKystLSs3LTctLTc3KystNysrKysrKysrKy0rKysrKysrKysrK//AABEIALYBFAMBIgACEQEDEQH/xAAbAAADAQEBAQEAAAAAAAAAAAABAgMABAUHBv/EABoQAQEBAQEBAQAAAAAAAAAAAAABAhESEwP/xAAaAQADAQEBAQAAAAAAAAAAAAABAgMEAAUG/8QAGREBAQEBAQEAAAAAAAAAAAAAAAECERID/9oADAMBAAIRAxEAPwD7TQ6FoWnFrQrWloua0to2ktFzWp6o2k1TQOltT1TUmjwOk1UdaU0ltSO6nrSWtG2jqrZENaT1sN1HWlpAPdlv6Ja0ndKSOX+jfRz3Qez+QdP0b6OX2PsfLnV9DT9HJNmmneTR1TYzbmmjzRfKkdHoZpCaNNB5Vyv6bqU0MocWyr1uklHocVh5TQkNC1SGYGAX6jodJ6D08p4sqnS2k9BdAeGtJaF0W6F3GtLaFpboelsa0mhtJaPS8LpLUV0no805DcQ26dobi2dC5do7dG459xozoyOqnafSWl80OB6DoUvVYHDeh9J9GU7lJo0qUppXDFpTypQ8LVIrKaVPJoWq5UlPKnDQtWinRhYaFqsPDwkNCU8MzMUXvem9Jeg9PLeHKr6C6S9h6BWKXRbpO6LdAeRS6JdEuiXbh8qXQXSV2W7EPCt0S0l2W7GB4HVR2bWk9aUzXeUtobW3UNtGKPlDaOl9JaaM6dxKkqlheLyl4XjcHgyKSu40PAkPI7o8GGgSHkd08hsmgSHkKpIMNAkNIWrZgw8CQ8harBh4WQ8JTRmGMUz0fTekfQXTzK8LMV9hdpey3RVsxW7LdJXZboq0yrdku07sl05SZVuy3aV0W6d03hW7JdpXRbo0d4Vuya2ndEulIHg+tJarWktWzQ8hSU9LYtmkuU7C8V43FpovE+DMn8mmVJoOEmTSHmTTJvTuFkNIaZPI7p5CyHkGQ0gdVzCyGg8GQOqyNIeRpDSFtUgyGA0ILAZnCe6C7Sugunl2vHzlS6LdJ3RbolrRnCl0W6Tui3RerZwpdFuk7ot0XqswpdFuiei2j0/g9pbS9bppXeR6XrMeaC5ADNxWaTsLwOH4PFc6TsT4Pk/k0yrNEqcyaZPMmmVJopJk0yeQ0h/QyEmTTJpDcHqkhODIfjcd1SQvB4bgyO6pI0huNBkAzSGYSizMzhc10W6LdFunk2sGMGui3RLot0na05we6LdEui3RLV84Uui+ieg6HVJg/Q6TrdD0bwfrdJ0emmguTiTpoeaTuTDIEPIpNJagSDIMNItKhQkGZNIaRWaTpZBkNweKykCQeDwTyjA4LCeKSgLMZWURhTRykppBCCUws0EBZmZznm2ktC0trxrSYwNpbQtJana0Zwa0tpbQtJavMGtDpLQ6Xqkwfo9T6PXdHyfppU5TSjKS5UlNE5TynlR1lSHieVIrKz6h4aQsNFc1n0aGLDRbNQ0Igy2U+iwN1WOlFi9bqkUmjdDpet03FJo8ppU5TDw80eU3U+jKHDzSnR6Toyhw00brB0A4PXlWlta0lrwrVcRrS2taWp2tOY1pbWpaS1eQeh0vW6Xqkg9HpOj1zuHlNKnKaUZSaisp81KU+apKhuLSnlSzTyqRl3FpTSpSnlXyybUlHpOj1bLNqn63Sem9L5RtP0Ok9BdLZgej2h0l0HpWQ00foypehmj8UmlZTdR6aV3DTSsoyp9GUOHm1ZR6lKaUOGmlOsTrO4b08ulo0tfPVtwWlpi1OtWQpaNCkq+SswFqkYSsAnhpU4aDCaUlPmpSnlUjPtWU8qMp5Vcsm1pTSpSjNL5Y/ot0eo+h9L5ZNq+g9Jeg9NGUNVX0F0l6C6aMwnVfQekvQelZHelemlRmjTR+G9LSjNIymlHgza00PUZo3oOHm1ZTTSMppoOHm1fTJ9EOG9uGlpqFfOWPSxS0tPYWxOxqxolLT2FsJY0ZpKFPS2FsVlKw0Cm6xoURhKaU8qYyniOlZTSpSjKrlk2tKPpLrel8sf0V9D6S9B6aMse1fQek/QemnDPpT0HpK6D00ZStV9B6T9NNLwvVpoZUZo0p+F9LTRppGaGUeD7WlNKj0Zp3Bm1ujNJdGaDh5tb0CfWDh/ZbAPwOPm7HrY0nwLFOBYnY1Z0lYWxWwthLGjOkrAsUsLYSxWaTCw9haXh/RWGg51rD0GGJaN0ek63Vcs21Ot6J0OrZZNxT0HonQ604ZNw/pvSfQ604ZdQ90HonoPTTlDSnppU+jKvlK1WU3UpR6rE7pWU0qUoym4X0rNGmkZTencH0tKPUZTencGbV9Ml6Z3De3XxuMz5mvdwHAsBk605oWFsZiVozS2EsZiVWUthKLEqkpSswCwMwwlZgY8R0IdZlssuwDos0YZdl6FrM1YZdh0OszThm03RlFmjLPpum6zKxGjKMrMpE6aUeswu6Mpuizh63WZnD1//Z) ;
+background-size: cover;
+}
+button { 
+        font-size: 120%; 
+        font-family: Verdana, Arial, Helvetica, sans-serif; 
+        color: blueviolet;
+        }
+        p { 
+            font-size: 20px; 
+            text-align: justify;
+            font-family: Helvetica, sans-serif; 
+            color: rgb(15, 14, 15);
+            text-indent: 15px;
+            }
+            h1 { 
+                font-size: 40px; 
+                text-align: center;
+                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+                color: rgb(15, 14, 15);
+                margin-bottom: 0px;
+            }
+            h6 { 
+                font-size: 30px; 
+                text-align: center;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+                color: rgb(89, 34, 240);
+                font-style: italic;
+                margin: 5px;
+            }
+            h3 { 
+                font-size: 15px; 
+                text-align: right;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+                color: rgb(3, 2, 7);
+                font-style: italic;
+            }
+            <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <title>Таблицы</title>
+            <style type="text/css">
+             TABLE {
+              background: black; 
+              color:  black;
+             }
+             TD, TH {
+              background: rgb(149, 125, 125); 
+              padding: 15px; 
+             }
+            </style>
+           </head> 
+           <html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Таблицы</title>
+  <style type="text/css">
+  TABLE {
+    border-collapse: collapse; 
+    width: 250px; 
+   }
+   TH { 
+    background: rgb(239, 4, 247); 
+    text-align: center; 
+   }
+   TD {
+    background: rgb(61, 235, 241); 
+    text-align: left; 
+   }
+   TH, TD {
+    border: 1px solid black; 
+    padding: 4px;
+   }
+   p.dline {
+    line-height: 1.5;
+   }
+   P {
+    line-height: 1.2em;
+   }
+  ul {
+    font-size: 20px;
+    font-family: Helvetica, sans-serif
+}
+
+.frog p{
+    text-align: center;
+   }
+   .frog{
+    max-width: 200px;
+   }
+.figure p {
+    font-size: 15px;
+    font-family: Helvetica, sans-serif
+    text-align: center;
+}
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.img{
+    width: 200px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+}
+.img img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.img p {
+    text-align: center;
+    font-size: 12px;
+}
